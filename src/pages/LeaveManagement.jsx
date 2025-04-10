@@ -5,6 +5,7 @@ import {
   CheckCircleIcon,
   XCircleIcon,
   ClockIcon,
+  CalendarIcon,
 } from "lucide-react";
 
 const LeaveManagement = () => {
